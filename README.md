@@ -209,4 +209,3 @@ The system provides comprehensive error handling for:
 
 ## Author
 
-This project is part of COMP9315 Database Systems course assignment, implementing Multi-attribute Linear-hashed Files as specified in the course requirements. 
